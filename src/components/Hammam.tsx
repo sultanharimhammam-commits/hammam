@@ -6,7 +6,7 @@ import { Sparkles, Phone } from 'lucide-react';
 const services = [
   { name: 'Entrée + gommage', price: '25 €', description: 'Rituel complet de purification' },
   { name: 'Massage aux huiles essentielles', price: 'à partir de 20 €', description: 'Détente profonde et relaxation' },
-  { name: 'Savonnage', price: 'Nous contacter', description: 'Soin traditionnel au savon noir' },
+  { name: 'Savonnage', price: '20 €', description: 'Soin traditionnel au savon noir' },
   { name: 'Enveloppement à l\'argile', price: '20 €', description: 'Soin régénérant et purifiant' },
 ];
 
